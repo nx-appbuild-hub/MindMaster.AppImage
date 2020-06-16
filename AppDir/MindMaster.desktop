@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=MindMaster
+GenericName=MindMaster
+Categories=X-MindMap;Office;X-Brainstorming;X-Mind;X-Map;
+MimeType=application/x-emmx;
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=mindmaster
+Hidden=false
+Comment=Mind Map Software
+Comment[de]=mind map - software
+Comment[fr]=Logiciel de carte
+Comment[ja]=マインドマップソフト
+Comment[es]=Mind Map Software
+Comment[zh_CN]=思维导图软件
+Comment[zh_TW]=心智圖軟件
