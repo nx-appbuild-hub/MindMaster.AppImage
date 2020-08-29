@@ -11,7 +11,7 @@ all:
 	rm -rf AppDir/application
 	
 	mkdir --parents AppDir/application
-	cp -r build/opt/MindMaster-7/* AppDir/application
+	cp -r build/opt/MindMaster-*/* AppDir/application
 
 	chmod +x AppDir/AppRun
 
